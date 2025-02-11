@@ -1,0 +1,18 @@
+title: "BonusCollector"
+
+baseurl: ""
+url: "https://bonuscollector.de"
+
+locale: de
+
+markdown: kramdown
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-last-modified-at
+
+collections:
+  pages:
+    output: true
+
+permalink: pretty
