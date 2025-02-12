@@ -2,7 +2,7 @@
 layout: post
 title: "GameTwist Free Coins"
 date: 2025-02-03
-author: "BonusCollector"
+author: "Haktuts"
 permalink: /gametwist-free-coins/
 image: /assets/images/gametwist.webp
 include_file: gametwist.html
