@@ -2,7 +2,7 @@
 layout: post
 title: "Monopoly Go Würfel Link"
 date: 2025-01-18
-author: "BonusCollector"
+author: "Haktuts"
 permalink: /monopoly-go-wurfel/
 image: /assets/images/monopoly-go.webp
 include_file: monopoly-go.html
