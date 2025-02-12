@@ -2,7 +2,7 @@
 layout: post
 title: "Solitaire Grand Harvest Free Coins Deutsch"
 date: 2025-01-18
-author: "BonusCollector"
+author: "Haktuts"
 permalink: /solitaire-grand-harvest-free-coins/
 image: /assets/images/solitaire-grand-harvest.webp
 include_file: solitaire-grand-harvest.html
