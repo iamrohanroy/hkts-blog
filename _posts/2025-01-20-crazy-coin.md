@@ -2,7 +2,7 @@
 layout: post
 title: "Crazy Coin Free Spins Link Deutsch"
 date: 2025-01-20
-author: "BonusCollector"
+author: "Haktuts"
 permalink: /crazy-coin-free-spins/
 image: /assets/images/crazy-coin.webp
 include_file: crazy-coin.html
