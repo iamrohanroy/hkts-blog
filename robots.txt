@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /assets/
 
-Sitemap: https://bonuscollector.de/sitemap.xml
+Sitemap: https://www.haktuts.blog/sitemap.xml
