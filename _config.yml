@@ -15,4 +15,4 @@ collections:
   pages:
     output: true
 
-permalink: pretty
+permalink: pretty 
