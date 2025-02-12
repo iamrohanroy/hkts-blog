@@ -2,7 +2,7 @@
 layout: post
 title: "House of Fun Free Coins"
 date: 2025-01-19
-author: "BonusCollector"
+author: "Haktuts"
 permalink: /house-of-fun-free-coins/
 image: /assets/images/house-of-fun.webp
 include_file: house-of-fun.html
