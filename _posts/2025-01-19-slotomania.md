@@ -2,7 +2,7 @@
 layout: post
 title: "Slotomania Free Coins Deutsch"
 date: 2025-01-19
-author: "BonusCollector"
+author: "Haktuts"
 permalink: /slotomania-free-coins/
 image: /assets/images/slotomania.webp
 include_file: slotomania.html
