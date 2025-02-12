@@ -2,7 +2,7 @@
 layout: post
 title: "Bingo Bash Free Chips"
 date: 2025-01-19
-author: "BonusCollector"
+author: "Haktuts"
 permalink: /bingo-bash-free-chips/
 image: /assets/images/bingo-bash.webp
 include_file: bingo-bash.html
