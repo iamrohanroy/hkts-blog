@@ -1,24 +1,22 @@
 ---
 layout: page
 title: "Haftungsausschluss"
-author: "BonusCollector"
+author: "Haktuts"
 date: 2025-01-16
 permalink: /haftungsausschluss/
 ---
 
-> **BonusCollector.de** stellt Informationen und Links zu kostenlosen Bonusangeboten für verschiedene Spiele bereit. Die Nutzung der Website erfolgt auf eigene Verantwortung.  
+## Inhalt des Online-Angebots  
+Die Informationen auf **Haktuts.blog** dienen ausschließlich allgemeinen Informationszwecken. Wir übernehmen keine Gewähr für die Vollständigkeit, Richtigkeit und Aktualität der Inhalte. Die Nutzung der Inhalte erfolgt auf eigenes Risiko.  
 
-### **Keine Garantie**  
-Wir bemühen uns, genaue und aktuelle Inhalte bereitzustellen, übernehmen jedoch keine Garantie für Vollständigkeit, Richtigkeit oder Verfügbarkeit der bereitgestellten Informationen.  
+## Haftung für Links  
+Unsere Website enthält Links zu externen Websites, auf deren Inhalte wir keinen Einfluss haben. Wir übernehmen keine Haftung für die Inhalte dieser verlinkten Seiten.  
 
-### **Haftungsausschluss**  
-BonusCollector.de haftet nicht für direkte oder indirekte Schäden, die durch die Nutzung der Website entstehen.  
+## Keine Garantie  
+Die bereitgestellten Tipps und Links zu Bonusangeboten basieren auf eigener Recherche und Erfahrung. Wir garantieren nicht, dass alle Links jederzeit verfügbar oder gültig sind.
 
-### **Externe Links**  
-Unsere Website enthält Links zu Drittanbietern. Wir sind nicht verantwortlich für deren Inhalte oder Datenschutzpraktiken.  
+## Kontakt  
+Bei Fragen zum Haftungsausschluss wenden Sie sich an:  
+**E-Mail:** [iamrohanroy00@gmail.com](mailto:iamrohanroy00@gmail.com)  
 
-### **Änderungen**  
-Wir behalten uns das Recht vor, diesen Disclaimer jederzeit zu ändern.  
-
-### **Kontakt**  
-Bei Fragen wenden Sie sich an: **prolladmail@gmail.com**
+**Letzte Aktualisierung:** 12. Februar 2025
