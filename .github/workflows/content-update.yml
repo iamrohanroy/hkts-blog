@@ -120,7 +120,7 @@ jobs:
           git pull --rebase || true
           git stash pop || true
           for i in {1..5}; do
-            git push https://x-access-token:${{ secrets.ACTIONS_DEPLOY_KEY }}@github.com/iamrohanroy/hkta-blog.git && break
+            git push https://x-access-token:${{ secrets.ACTIONS_DEPLOY_KEY }}@github.com/iamrohanroy/hkts-blog.git && break
             echo "Versuch $i: Push fehlgeschlagen, erneuter Versuch in 5 Sekunden..."
             sleep 5
             git pull --rebase || true
