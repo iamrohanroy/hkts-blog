@@ -1,14 +1,16 @@
 ---
 layout: page
 title: "Kontakt"
-author: "BonusCollector"
+author: "Haktuts"
 date: 2025-01-16
 permalink: /kontakt/
 ---
 
-Wir freuen uns, von Ihnen zu hören! Wenn Sie Fragen, Anregungen oder Feedback haben, kontaktieren Sie uns gerne über die untenstehenden Informationen.  
+**Haktuts.blog** ist stets bemüht, Ihnen zu helfen. Wenn Sie Fragen, Anregungen oder Feedback haben, können Sie uns auf folgende Weise erreichen:
 
-### **Kontaktinformationen**  
-- **E-Mail:** prolladmail@gmail.com  
+**E-Mail:**  
+[iamrohanroy00@gmail.com](mailto:iamrohanroy00@gmail.com)
 
-Wir bemühen uns, alle Anfragen so schnell wie möglich zu beantworten. Vielen Dank, dass Sie **BonusCollector.de** nutzen!
+Wir werden Ihre Anfrage so schnell wie möglich beantworten.
+
+**Letzte Aktualisierung:** 12. Februar 2025
