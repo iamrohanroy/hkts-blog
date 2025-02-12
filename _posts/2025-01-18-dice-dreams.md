@@ -2,7 +2,7 @@
 layout: post
 title: "Dice Dreams Free Rolls Deutsch"
 date: 2025-01-18
-author: "BonusCollector"
+author: "Haktuts"
 permalink: /dice-dreams-free-rolls/
 image: /assets/images/dice-dreams.webp
 include_file: dice-dreams.html
